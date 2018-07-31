@@ -3,6 +3,8 @@ CUPONS
 
 Esse projeto é um alimentador e centralizador de CUPONS, que ainda está em construção.
 
+O nosso objetivo é ajudar as pessoas a encontrar as melhores promoçoes em sites internacionais e futuramente nacionais.
+
 
 
 License
