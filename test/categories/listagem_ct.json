@@ -1,32 +1,32 @@
 [
 {
  "nome_categoria":"Celulares",
- "url_icon":"",
+ "url_icon":"https://raw.githubusercontent.com/rogers2602/cps/master/test/_basic/_PNG%2064/basic_smartphone.png",
  "listagem":""
  },
  {
  "nome_categoria":"Acessórios",
- "url_icon":"",
+ "url_icon":"https://raw.githubusercontent.com/rogers2602/cps/master/test/_basic/_PNG%2064/basic_sheet_pencil.png",
  "listagem":""
  },
  {
  "nome_categoria":"Cabos",
- "url_icon":"",
+ "url_icon":"https://raw.githubusercontent.com/rogers2602/cps/master/test/_basic/_PNG%2064/basic_smartphone.png",
  "listagem":""
  },
  {
  "nome_categoria":"Tablets",
- "url_icon":"",
+ "url_icon":"https://raw.githubusercontent.com/rogers2602/cps/master/test/_basic/_PNG%2064/basic_usb.png",
  "listagem":""
  },
  {
  "nome_categoria":"Notboks",
- "url_icon":"",
+ "url_icon":"https://raw.githubusercontent.com/rogers2602/cps/master/test/_basic/_PNG%2064/basic_accelerator.png",
  "listagem":""
  },
  {
  "nome_categoria":"Outros",
- "url_icon":"",
+ "url_icon":"https://raw.githubusercontent.com/rogers2602/cps/master/test/_basic/_PNG%2064/basic_usb.png",
  "listagem":""
  }
 ]
